@@ -1,4 +1,5 @@
-# ReactRedux - "Tinder-like" App
+# ReactRedux - Book Browser
 
-First Redux app to replicate Tinder functionality.
+First ReactRX app to get used to reducers, actions, and app architecture. 
+
 
